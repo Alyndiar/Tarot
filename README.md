@@ -33,6 +33,7 @@ Application desktop Windows locale (PySide6) pour tirer des cartes du Tarot de M
 conda create -n Tarot python=3.12 -y
 conda activate Tarot
 pip install -r requirements.txt
+pip install -e .
 ```
 
 ### Option venv (si conda indisponible)
@@ -47,6 +48,12 @@ pip install -r requirements.txt
 
 ```powershell
 python run.py
+```
+
+Ou directement (après `pip install -e .` dans l'environnement actif):
+
+```powershell
+Tarot
 ```
 
 ## Structure du projet

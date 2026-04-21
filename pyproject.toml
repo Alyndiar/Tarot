@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tarotdealermarseille"
+version = "0.1.0"
+description = "Application locale PySide6 pour tirer les cartes du Tarot de Marseille."
+requires-python = ">=3.12"
+dependencies = [
+  "PySide6>=6.7,<7"
+]
+
+[project.scripts]
+Tarot = "app.main:run"
+tarot = "app.main:run"
+
+[tool.setuptools.packages.find]
+include = ["app*"]
+
