@@ -1,0 +1,704 @@
+[
+  {
+    "id": "major_00",
+    "name": "Le Mat",
+    "arcana": "major",
+    "suit": null,
+    "rank": "0",
+    "image": "cards/cbd_tarot_marseille/majors/a22.jpg",
+    "display_order": 0
+  },
+  {
+    "id": "major_01",
+    "name": "Le Bateleur",
+    "arcana": "major",
+    "suit": null,
+    "rank": "1",
+    "image": "cards/cbd_tarot_marseille/majors/a01.jpg",
+    "display_order": 1
+  },
+  {
+    "id": "major_02",
+    "name": "La Papesse",
+    "arcana": "major",
+    "suit": null,
+    "rank": "2",
+    "image": "cards/cbd_tarot_marseille/majors/a02.jpg",
+    "display_order": 2
+  },
+  {
+    "id": "major_03",
+    "name": "L'Impératrice",
+    "arcana": "major",
+    "suit": null,
+    "rank": "3",
+    "image": "cards/cbd_tarot_marseille/majors/a03.jpg",
+    "display_order": 3
+  },
+  {
+    "id": "major_04",
+    "name": "L'Empereur",
+    "arcana": "major",
+    "suit": null,
+    "rank": "4",
+    "image": "cards/cbd_tarot_marseille/majors/a04.jpg",
+    "display_order": 4
+  },
+  {
+    "id": "major_05",
+    "name": "Le Pape",
+    "arcana": "major",
+    "suit": null,
+    "rank": "5",
+    "image": "cards/cbd_tarot_marseille/majors/a05.jpg",
+    "display_order": 5
+  },
+  {
+    "id": "major_06",
+    "name": "L'Amoureux",
+    "arcana": "major",
+    "suit": null,
+    "rank": "6",
+    "image": "cards/cbd_tarot_marseille/majors/a06.jpg",
+    "display_order": 6
+  },
+  {
+    "id": "major_07",
+    "name": "Le Chariot",
+    "arcana": "major",
+    "suit": null,
+    "rank": "7",
+    "image": "cards/cbd_tarot_marseille/majors/a07.jpg",
+    "display_order": 7
+  },
+  {
+    "id": "major_08",
+    "name": "La Justice",
+    "arcana": "major",
+    "suit": null,
+    "rank": "8",
+    "image": "cards/cbd_tarot_marseille/majors/a08.jpg",
+    "display_order": 8
+  },
+  {
+    "id": "major_09",
+    "name": "L'Hermite",
+    "arcana": "major",
+    "suit": null,
+    "rank": "9",
+    "image": "cards/cbd_tarot_marseille/majors/a09.jpg",
+    "display_order": 9
+  },
+  {
+    "id": "major_10",
+    "name": "La Roue de Fortune",
+    "arcana": "major",
+    "suit": null,
+    "rank": "10",
+    "image": "cards/cbd_tarot_marseille/majors/a10.jpg",
+    "display_order": 10
+  },
+  {
+    "id": "major_11",
+    "name": "La Force",
+    "arcana": "major",
+    "suit": null,
+    "rank": "11",
+    "image": "cards/cbd_tarot_marseille/majors/a11.jpg",
+    "display_order": 11
+  },
+  {
+    "id": "major_12",
+    "name": "Le Pendu",
+    "arcana": "major",
+    "suit": null,
+    "rank": "12",
+    "image": "cards/cbd_tarot_marseille/majors/a12.jpg",
+    "display_order": 12
+  },
+  {
+    "id": "major_13",
+    "name": "L'Arcane sans nom",
+    "arcana": "major",
+    "suit": null,
+    "rank": "13",
+    "image": "cards/cbd_tarot_marseille/majors/a13.jpg",
+    "display_order": 13
+  },
+  {
+    "id": "major_14",
+    "name": "Tempérance",
+    "arcana": "major",
+    "suit": null,
+    "rank": "14",
+    "image": "cards/cbd_tarot_marseille/majors/a14.jpg",
+    "display_order": 14
+  },
+  {
+    "id": "major_15",
+    "name": "Le Diable",
+    "arcana": "major",
+    "suit": null,
+    "rank": "15",
+    "image": "cards/cbd_tarot_marseille/majors/a15.jpg",
+    "display_order": 15
+  },
+  {
+    "id": "major_16",
+    "name": "La Maison Dieu",
+    "arcana": "major",
+    "suit": null,
+    "rank": "16",
+    "image": "cards/cbd_tarot_marseille/majors/a16.jpg",
+    "display_order": 16
+  },
+  {
+    "id": "major_17",
+    "name": "L'Étoile",
+    "arcana": "major",
+    "suit": null,
+    "rank": "17",
+    "image": "cards/cbd_tarot_marseille/majors/a17.jpg",
+    "display_order": 17
+  },
+  {
+    "id": "major_18",
+    "name": "La Lune",
+    "arcana": "major",
+    "suit": null,
+    "rank": "18",
+    "image": "cards/cbd_tarot_marseille/majors/a18.jpg",
+    "display_order": 18
+  },
+  {
+    "id": "major_19",
+    "name": "Le Soleil",
+    "arcana": "major",
+    "suit": null,
+    "rank": "19",
+    "image": "cards/cbd_tarot_marseille/majors/a19.jpg",
+    "display_order": 19
+  },
+  {
+    "id": "major_20",
+    "name": "Le Jugement",
+    "arcana": "major",
+    "suit": null,
+    "rank": "20",
+    "image": "cards/cbd_tarot_marseille/majors/a20.jpg",
+    "display_order": 20
+  },
+  {
+    "id": "major_21",
+    "name": "Le Monde",
+    "arcana": "major",
+    "suit": null,
+    "rank": "21",
+    "image": "cards/cbd_tarot_marseille/majors/a21.jpg",
+    "display_order": 21
+  },
+  {
+    "id": "minor_batons_as",
+    "name": "As de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "as",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b01.jpg",
+    "display_order": 22
+  },
+  {
+    "id": "minor_batons_2",
+    "name": "2 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "2",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b02.jpg",
+    "display_order": 23
+  },
+  {
+    "id": "minor_batons_3",
+    "name": "3 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "3",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b03.jpg",
+    "display_order": 24
+  },
+  {
+    "id": "minor_batons_4",
+    "name": "4 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "4",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b04.jpg",
+    "display_order": 25
+  },
+  {
+    "id": "minor_batons_5",
+    "name": "5 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "5",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b05.jpg",
+    "display_order": 26
+  },
+  {
+    "id": "minor_batons_6",
+    "name": "6 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "6",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b06.jpg",
+    "display_order": 27
+  },
+  {
+    "id": "minor_batons_7",
+    "name": "7 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "7",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b07.jpg",
+    "display_order": 28
+  },
+  {
+    "id": "minor_batons_8",
+    "name": "8 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "8",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b08.jpg",
+    "display_order": 29
+  },
+  {
+    "id": "minor_batons_9",
+    "name": "9 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "9",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b09.jpg",
+    "display_order": 30
+  },
+  {
+    "id": "minor_batons_10",
+    "name": "10 de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "10",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b10.jpg",
+    "display_order": 31
+  },
+  {
+    "id": "minor_batons_valet",
+    "name": "Valet de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "valet",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b11.jpg",
+    "display_order": 32
+  },
+  {
+    "id": "minor_batons_cavalier",
+    "name": "Cavalier de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "cavalier",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b12.jpg",
+    "display_order": 33
+  },
+  {
+    "id": "minor_batons_reine",
+    "name": "Reine de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "reine",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b13.jpg",
+    "display_order": 34
+  },
+  {
+    "id": "minor_batons_roi",
+    "name": "Roi de Bâtons",
+    "arcana": "minor",
+    "suit": "batons",
+    "rank": "roi",
+    "image": "cards/cbd_tarot_marseille/minors/batons/b14.jpg",
+    "display_order": 35
+  },
+  {
+    "id": "minor_coupes_as",
+    "name": "As de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "as",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c01.jpg",
+    "display_order": 36
+  },
+  {
+    "id": "minor_coupes_2",
+    "name": "2 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "2",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c02.jpg",
+    "display_order": 37
+  },
+  {
+    "id": "minor_coupes_3",
+    "name": "3 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "3",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c03.jpg",
+    "display_order": 38
+  },
+  {
+    "id": "minor_coupes_4",
+    "name": "4 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "4",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c04.jpg",
+    "display_order": 39
+  },
+  {
+    "id": "minor_coupes_5",
+    "name": "5 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "5",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c05.jpg",
+    "display_order": 40
+  },
+  {
+    "id": "minor_coupes_6",
+    "name": "6 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "6",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c06.jpg",
+    "display_order": 41
+  },
+  {
+    "id": "minor_coupes_7",
+    "name": "7 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "7",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c07.jpg",
+    "display_order": 42
+  },
+  {
+    "id": "minor_coupes_8",
+    "name": "8 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "8",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c08.jpg",
+    "display_order": 43
+  },
+  {
+    "id": "minor_coupes_9",
+    "name": "9 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "9",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c09.jpg",
+    "display_order": 44
+  },
+  {
+    "id": "minor_coupes_10",
+    "name": "10 de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "10",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c10.jpg",
+    "display_order": 45
+  },
+  {
+    "id": "minor_coupes_valet",
+    "name": "Valet de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "valet",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c11.jpg",
+    "display_order": 46
+  },
+  {
+    "id": "minor_coupes_cavalier",
+    "name": "Cavalier de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "cavalier",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c12.jpg",
+    "display_order": 47
+  },
+  {
+    "id": "minor_coupes_reine",
+    "name": "Reine de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "reine",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c13.jpg",
+    "display_order": 48
+  },
+  {
+    "id": "minor_coupes_roi",
+    "name": "Roi de Coupes",
+    "arcana": "minor",
+    "suit": "coupes",
+    "rank": "roi",
+    "image": "cards/cbd_tarot_marseille/minors/coupes/c14.jpg",
+    "display_order": 49
+  },
+  {
+    "id": "minor_deniers_as",
+    "name": "As de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "as",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d01.jpg",
+    "display_order": 50
+  },
+  {
+    "id": "minor_deniers_2",
+    "name": "2 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "2",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d02.jpg",
+    "display_order": 51
+  },
+  {
+    "id": "minor_deniers_3",
+    "name": "3 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "3",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d03.jpg",
+    "display_order": 52
+  },
+  {
+    "id": "minor_deniers_4",
+    "name": "4 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "4",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d04.jpg",
+    "display_order": 53
+  },
+  {
+    "id": "minor_deniers_5",
+    "name": "5 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "5",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d05.jpg",
+    "display_order": 54
+  },
+  {
+    "id": "minor_deniers_6",
+    "name": "6 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "6",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d06.jpg",
+    "display_order": 55
+  },
+  {
+    "id": "minor_deniers_7",
+    "name": "7 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "7",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d07.jpg",
+    "display_order": 56
+  },
+  {
+    "id": "minor_deniers_8",
+    "name": "8 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "8",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d08.jpg",
+    "display_order": 57
+  },
+  {
+    "id": "minor_deniers_9",
+    "name": "9 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "9",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d09.jpg",
+    "display_order": 58
+  },
+  {
+    "id": "minor_deniers_10",
+    "name": "10 de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "10",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d10.jpg",
+    "display_order": 59
+  },
+  {
+    "id": "minor_deniers_valet",
+    "name": "Valet de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "valet",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d11.jpg",
+    "display_order": 60
+  },
+  {
+    "id": "minor_deniers_cavalier",
+    "name": "Cavalier de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "cavalier",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d12.jpg",
+    "display_order": 61
+  },
+  {
+    "id": "minor_deniers_reine",
+    "name": "Reine de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "reine",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d13.jpg",
+    "display_order": 62
+  },
+  {
+    "id": "minor_deniers_roi",
+    "name": "Roi de Deniers",
+    "arcana": "minor",
+    "suit": "deniers",
+    "rank": "roi",
+    "image": "cards/cbd_tarot_marseille/minors/deniers/d14.jpg",
+    "display_order": 63
+  },
+  {
+    "id": "minor_epees_as",
+    "name": "As d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "as",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e01.jpg",
+    "display_order": 64
+  },
+  {
+    "id": "minor_epees_2",
+    "name": "2 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "2",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e02.jpg",
+    "display_order": 65
+  },
+  {
+    "id": "minor_epees_3",
+    "name": "3 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "3",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e03.jpg",
+    "display_order": 66
+  },
+  {
+    "id": "minor_epees_4",
+    "name": "4 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "4",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e04.jpg",
+    "display_order": 67
+  },
+  {
+    "id": "minor_epees_5",
+    "name": "5 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "5",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e05.jpg",
+    "display_order": 68
+  },
+  {
+    "id": "minor_epees_6",
+    "name": "6 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "6",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e06.jpg",
+    "display_order": 69
+  },
+  {
+    "id": "minor_epees_7",
+    "name": "7 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "7",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e07.jpg",
+    "display_order": 70
+  },
+  {
+    "id": "minor_epees_8",
+    "name": "8 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "8",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e08.jpg",
+    "display_order": 71
+  },
+  {
+    "id": "minor_epees_9",
+    "name": "9 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "9",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e09.jpg",
+    "display_order": 72
+  },
+  {
+    "id": "minor_epees_10",
+    "name": "10 d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "10",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e10.jpg",
+    "display_order": 73
+  },
+  {
+    "id": "minor_epees_valet",
+    "name": "Valet d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "valet",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e11.jpg",
+    "display_order": 74
+  },
+  {
+    "id": "minor_epees_cavalier",
+    "name": "Cavalier d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "cavalier",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e12.jpg",
+    "display_order": 75
+  },
+  {
+    "id": "minor_epees_reine",
+    "name": "Reine d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "reine",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e13.jpg",
+    "display_order": 76
+  },
+  {
+    "id": "minor_epees_roi",
+    "name": "Roi d'Épées",
+    "arcana": "minor",
+    "suit": "epees",
+    "rank": "roi",
+    "image": "cards/cbd_tarot_marseille/minors/epees/e14.jpg",
+    "display_order": 77
+  }
+]

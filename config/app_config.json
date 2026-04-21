@@ -1,0 +1,9 @@
+{
+  "default_mode": "majors",
+  "confirm_mode_change": true,
+  "allow_reversed_majors": true,
+  "window": {
+    "width": 1200,
+    "height": 760
+  }
+}

@@ -1,0 +1,2 @@
+"""TarotDealerMarseille application package."""
+
